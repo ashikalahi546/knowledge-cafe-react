@@ -1,0 +1,54 @@
+[
+    {
+      "id": 1,
+      "cover": "https://picsum.photos/200/300",
+      "title": "The Journey Begins",
+      "author_img": "https://i.pravatar.cc/150?img=1",
+      "posted_date": "2024-03-13",
+      "reading_time": 10,
+      "author": "JohnDoe",
+      "hashtags": ["coding", "programming", "technology"]
+    },
+    {
+      "id": 2,
+      "cover": "https://picsum.photos/200/300",
+      "title": "Exploring the Unknown",
+      "author_img": "https://i.pravatar.cc/150?img=2",
+      "posted_date": "2024-03-12",
+      "reading_time": 8, 
+      "author": "JaneSmith",
+      "hashtags": ["travel", "adventure", "explore"]
+    },
+  
+    {
+      "id": 3,
+      "cover": "https://picsum.photos/200/300",
+      "title": "In Pursuit of Dreams",
+      "author_img": "https://i.pravatar.cc/150?img=3",
+      "posted_date": "2024-03-11",
+      "reading_time": 12,
+      "author": "AlexWilson",
+      "hashtags": ["fitness", "health", "workout"]
+    },
+    {
+      "id": 4,
+      "cover": "https://picsum.photos/200/300",
+      "title": "A Glimpse of Paradise",
+      "author_img": "https://i.pravatar.cc/150?img=4",
+      "posted_date": "2024-03-10",
+      "reading_time": 15,
+      "author": "SamJohnson",
+      "hashtags": ["photography", "nature", "landscape"]
+    },
+    {
+      "id": 5,
+      "cover": "https://picsum.photos/200/300",
+      "title": "Unveiling Mysteries",
+      "author_img": "https://i.pravatar.cc/150?img=5",
+      "posted_date": "2024-03-09",
+      "reading_time": 7 ,
+      "author": "EmilyBrown",
+      "hashtags": ["foodie", "recipes", "cooking"]
+    }
+  ]
+  
